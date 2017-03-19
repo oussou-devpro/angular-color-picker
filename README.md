@@ -174,3 +174,9 @@ Inspiration and code taken from projects like
 * http://kaihenzler.github.io/angular-minicolors/
 * http://mjolnic.github.io/bootstrap-colorpicker/
 * https://github.com/buberdds/angular-bootstrap-colorpicker/
+
+## Others links
+* http://fiddle.jshell.net/mmcbride1007/4hf3o76g/
+* http://stackoverflow.com/questions/39011811/a-simple-color-picker-input-directive-in-angular
+* https://itsjavi.com/bootstrap-colorpicker/
+* https://ruhley.github.io/angular-color-picker/
